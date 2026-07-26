@@ -98,16 +98,13 @@ Execution Time: 0.000021 seconds
 ## 📸 Screenshots
 
 ### Home Menu
-
-![Home Menu](screenshots/menu.png)
+![Home Menu](menu.png)
 
 ### Generate Fibonacci Numbers
-
-![Generate Fibonacci Numbers](screenshots/generate.png)
+![Generate Fibonacci Numbers](generate.png)
 
 ### Check Fibonacci Number
-
-![Check Fibonacci Number](screenshots/check.png)
+![Check Fibonacci Number](check.png)
 
 ---
 
